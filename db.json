@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Columbian rainbow boa", "category": "Mauv" },
+  { "id": 2, "name": "Two-banded monitor", "category": "Blue" },
+  { "id": 3, "name": "Chilean flamingo", "category": "Yellow" },
+  { "id": 4, "name": "Blesbok", "category": "Orange" },
+  { "id": 5, "name": "Hartebeest, coke's", "category": "Fuscia" },
+  { "id": 6, "name": "Lynx, african", "category": "Orange" },
+  { "id": 7, "name": "Eurasian badger", "category": "Aquamarine" },
+  { "id": 8, "name": "Carpet snake", "category": "Yellow" },
+  { "id": 9, "name": "Buffalo, wild water", "category": "Yellow" },
+  { "id": 10, "name": "Bat-eared fox", "category": "Puce" },
+  { "id": 11, "name": "Savanna fox", "category": "Indigo" },
+  { "id": 12, "name": "Two-toed sloth", "category": "Purple" },
+  { "id": 13, "name": "Coatimundi, white-nosed", "category": "Crimson" },
+  { "id": 14, "name": "Western pygmy possum", "category": "Red" },
+  { "id": 15, "name": "Civet, small-toothed palm", "category": "Teal" },
+  { "id": 16, "name": "Deer, savannah", "category": "Crimson" },
+  { "id": 17, "name": "Monkey, bleeding heart", "category": "Puce" },
+  { "id": 18, "name": "Koala", "category": "Green" },
+  { "id": 19, "name": "Rabbit, eastern cottontail", "category": "Crimson" },
+  { "id": 20, "name": "Bandicoot, long-nosed", "category": "Khaki" }
+]
