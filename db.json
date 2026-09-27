@@ -1,4 +1,5 @@
-[
+{
+  "products":[
   { "id": 1, "name": "Columbian rainbow boa", "category": "Mauv" },
   { "id": 2, "name": "Two-banded monitor", "category": "Blue" },
   { "id": 3, "name": "Chilean flamingo", "category": "Yellow" },
@@ -20,3 +21,4 @@
   { "id": 19, "name": "Rabbit, eastern cottontail", "category": "Crimson" },
   { "id": 20, "name": "Bandicoot, long-nosed", "category": "Khaki" }
 ]
+}
